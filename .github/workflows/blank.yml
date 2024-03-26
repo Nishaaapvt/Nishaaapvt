@@ -1,0 +1,12 @@
+            - name: Instant access
+  # You may pin to the exact commit or the version.
+  # uses: erguotou520/instant-access-action@a1f095d796245ce34a7d9d5d1ba221d2f1be3845
+  uses: reeshuukharat2023/instant-access-action@0.0.4
+  with:
+    # Channel key（通道key）
+    channel: 
+    # Message head
+    head: 
+    # Message body
+    body: # optional
+          
